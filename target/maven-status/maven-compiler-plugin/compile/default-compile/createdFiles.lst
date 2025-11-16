@@ -1,0 +1,12 @@
+com\example\parkingpos\model\Member.class
+com\example\parkingpos\config\WebConfig.class
+com\example\parkingpos\dto\CheckOutPreviewResponse.class
+com\example\parkingpos\dto\MemberDTO.class
+com\example\parkingpos\dto\CheckOutRequest.class
+com\example\parkingpos\repository\MemberRepository.class
+com\example\parkingpos\model\Ticket.class
+com\example\parkingpos\controller\TicketController.class
+com\example\parkingpos\repository\TicketRepository.class
+com\example\parkingpos\service\TicketService.class
+com\example\parkingpos\dto\CheckInRequest.class
+com\example\parkingpos\ParkingPosApplication.class
